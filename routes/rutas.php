@@ -1,3 +1,3 @@
 <?php
-$rutas = array("", "inicio", "carrito", "pagar", "login", "signup");
+$rutas = array("", "inicio", "carrito", "pagar", "login", "signup", "test");
 ?>
